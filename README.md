@@ -1,3 +1,6 @@
+### fork自[仓库](https://github.com/ccf19881030/QtResources)
+
+
 # QtResources
 关于Qt的一些开发资料，包括电子书、技术博客、开发技巧等的收集和总结
 
